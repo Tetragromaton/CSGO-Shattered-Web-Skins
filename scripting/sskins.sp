@@ -34,6 +34,7 @@ public void OnPluginStart()
 	}
 	RegConsoleCmd("ssf", SpecialSkin3);
 	RegConsoleCmd("agents", SpecialSkin3);
+	RegConsoleCmd("models", SpecialSkin3);
 	HookEvent("player_spawn", OnPlayerSpawn);
 	g_sDataSkin = RegClientCookie("ss_skin_t", "", CookieAccess_Private);
 	g_sDataSKIN_CT = RegClientCookie("ss_skin_ct", "", CookieAccess_Private);
