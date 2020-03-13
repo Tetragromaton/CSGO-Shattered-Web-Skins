@@ -1,0 +1,244 @@
+"Phrases"
+{
+	"MenuTitle_AgentType"
+	{
+		"chi"		"选择探员类型"
+	}
+	"MenuTitle_AgentReset"
+	{
+		"chi"		"重置探员皮肤"
+	}
+	"MenuTitle_AgentDist"
+	{
+		"chi"		"高级探员"
+	}
+	"MenuTitle_PickPatch_TITLE"
+	{
+		"chi"		"为探员选择布章.\n "
+	}
+	"MenuTitle_PickPatch_Reset"
+	{
+		"chi"		"重置所有探员上的所有布章."
+	}
+	"MenuTitle_PickForSlot"
+	{
+		"#format"	"{1:s}"
+		"chi"		"应用布章到{1}号位"
+	}
+	"MenuTitle_PickForAllSlots"
+	{
+		"chi"		"应用布章到所有的位置"
+	}
+	"MenuTitle_PatchInstalled"
+	{
+		"chi"		"应用布章成功. 它们会在你复活时显示."	
+	}
+	"MenuTitle_PatchAllReset"
+	{
+		"chi"		"删除了所有探员的布章."	
+	}
+	"ITEM_PAYBACK"
+	{
+		"chi"		"回赠大行动"
+	}
+	"ITEM_BRAVO"
+	{
+		"chi"		"英勇大行动"
+	}
+	"ITEM_PHOENIX"
+	{
+		"chi"		"凤凰大行动"
+	}
+	"ITEM_BREAKOUT"
+	{
+		"chi"		"突围大行动"
+	}
+	"ITEM_VANGUARD"
+	{
+		"chi"		"先锋大行动"
+	}
+	"ITEM_BLOODHOUND"
+	{
+		"chi"		"血猎大行动"
+	}
+	"ITEM_WILDFIRE"
+	{
+		"chi"		"野火大行动"
+	}
+	"ITEM_HYDRA"
+	{
+		"chi"		"九头蛇大行动"
+	}
+	"ITEM_SHATTERED"
+	{
+		"chi"		"裂网大行动"
+	}
+	"ITEM_DANGERZONE"
+	{
+		"chi"		"头号特训"
+	}
+	"ITEM_EZPZ"
+	{
+		"chi"		"柠檬汁"
+	}
+	"ITEM_CHICKENLOVER"
+	{
+		"chi"		"爱鸡人士"
+	}
+	"ITEM_CRAZYBANANA"
+	{
+		"chi"		"疯狂香蕉人"
+	}
+	"ITEM_CLUTCH"
+	{
+		"chi"		"命悬一线"
+	}
+	"ITEM_KOI"
+	{
+		"chi"		"锦鲤"
+	}
+	"ITEM_LONGEVITY"
+	{
+		"chi"		"剪纸GO"
+	}
+	"ITEM_VIGILANCE"
+	{
+		"chi"		"警戒者"
+	}
+	"ITEM_RAGE"
+	{
+		"chi"		"怒"
+	}
+	"ITEM_DRAGON"
+	{
+		"chi"		"龙的传人"
+	}
+	"ITEM_BOSS"
+	{
+		"chi"		"皇冠"
+	}
+	"ITEM_HOWL"
+	{
+		"chi"		"咆哮"
+	}
+	"MenuTitle_AgentExceptional"
+	{
+		"chi"		"卓越探员"
+	}
+	"MenuTitle_AgentSuperior"
+	{
+		"chi"		"非凡探员"
+	}
+	"MenuTitle_Master"
+	{
+		"chi"		"大师探员"
+	}
+	"MenuTitle_PickIt"
+	{
+		"chi"		"选择一个你想要的探员皮肤："
+	}
+	"Agents_Reseted"
+	{
+		"chi"		"两队的探员皮肤都被重置了."
+	}
+	"Agent_PickedT"
+	{
+		"chi"		"恐怖分子的探员模型将在您下次重生时被替换."
+	}
+	"Agent_PickedCT"
+	{
+		"chi"		"反恐精英的探员模型将在您下次重生时被替换."
+	}	
+	"AgentSID_20"
+	{
+		"chi"		"Ava特工 | 联邦调查局"
+	}
+	"AgentSID_19"
+	{
+		"chi"		"陆军少尉长官Ricksaw | 海军水面作战中心海豹突击队"
+	}
+	"AgentSID_13"
+	{
+		"chi"		"德拉戈米尔 | 军刀组织"
+	}
+	"AgentSID_18"
+	{
+		"chi"		"准备就绪Rezan | 军刀组织"
+	}
+	"AgentSID_21"
+	{
+		"chi"		"“医生”罗曼诺夫 | 军刀组织"
+	}
+	"AgentSID_9"
+	{
+		"chi"		"Maximus | 军刀组织"
+	}
+	"AgentSID_14"
+	{
+		"chi"		"黑狼 | 军刀组织"
+	}
+	"AgentSID_22"
+	{
+		"chi"		"精英Muhlik先生 | 精锐分子"
+	}
+	"AgentSID_4"
+	{
+		"chi"		"地面叛军  | 精锐分子"
+	}	
+	"AgentSID_11"
+	{
+		"chi"		"地狱判官 | 精锐分子"
+	}
+	"AgentSID_17"
+	{
+		"chi"		"“教授”Shahmat | 精锐分子"
+	}	
+	"AgentSID_5"
+	{
+		"chi"		"执行者 | 凤凰战士"
+	}
+	"AgentSID_12"
+	{
+		"chi"		"弹弓 | 凤凰战士"
+	}
+	"AgentSID_6"
+	{
+		"chi"		"枪手 | 凤凰战士"
+	}
+	"AgentSID_3"
+	{
+		"en"		"特种兵 | 联邦调查局特警"
+	}
+	"AgentSID_8"
+	{
+		"chi"		"Markus Delrow | 联邦调查局"
+	}
+	"AgentSID_15"
+	{
+		"chi"		"Michael Syfers | 联邦调查局"
+	}	
+	"AgentSID_7"
+	{
+		"chi"		"空军中队B小队指挥官 | 英国空军特别部队"
+	}
+	"AgentSID_1"
+	{
+		"chi"		"第六分队士兵 | 海军水面作战中心海豹突击队"
+	}
+	"AgentSID_10"
+	{
+		"chi"		"铅弹 | 海军水面作战中心海豹突击队"
+	}
+	"AgentSID_19"
+	{
+		"chi"		"陆军少尉长官Ricksaw | 海军水面作战中心海豹突击队"
+	}
+	"AgentSID_2"
+	{
+		"chi"		"第三特种兵连士兵 | 德国特种部队突击队"
+	}
+	"AgentSID_16"
+	{
+		"chi"		"“两次”McCoy | 美国空军战术空中管制部队"
+	}
+}
