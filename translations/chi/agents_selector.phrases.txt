@@ -14,11 +14,11 @@
 	}
 	"MenuTitle_PickPatch_TITLE"
 	{
-		"chi"		"为探员选择布章.\n "
+		"chi"		"为探员选择布章\n "
 	}
 	"MenuTitle_PickPatch_Reset"
 	{
-		"chi"		"重置所有探员上的所有布章."
+		"chi"		"重置所有探员上的所有布章"
 	}
 	"MenuTitle_PickForSlot"
 	{
@@ -31,11 +31,11 @@
 	}
 	"MenuTitle_PatchInstalled"
 	{
-		"chi"		"应用布章成功. 它们会在你复活时显示."	
+		"chi"		"应用布章成功. 它们会在你复活时显示"	
 	}
 	"MenuTitle_PatchAllReset"
 	{
-		"chi"		"删除了所有探员的布章."	
+		"chi"		"删除了所有探员的布章"	
 	}
 	"ITEM_PAYBACK"
 	{
@@ -139,15 +139,15 @@
 	}
 	"Agents_Reseted"
 	{
-		"chi"		"两队的探员皮肤都被重置了."
+		"chi"		"两队的探员皮肤都被重置了"
 	}
 	"Agent_PickedT"
 	{
-		"chi"		"恐怖分子的探员模型将在您下次重生时被替换."
+		"chi"		"恐怖分子的探员模型将在您下次重生时被替换"
 	}
 	"Agent_PickedCT"
 	{
-		"chi"		"反恐精英的探员模型将在您下次重生时被替换."
+		"chi"		"反恐精英的探员模型将在您下次重生时被替换"
 	}	
 	"AgentSID_20"
 	{
